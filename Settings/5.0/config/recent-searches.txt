@@ -1,0 +1,40 @@
+Deform ▸ Curve
+Generate ▸ Bevel
+Generate ▸ Subdivision Surface
+Instances ▸ Instance on Points
+Point ▸ Distribute Points on Faces
+Texture ▸ Voronoi Texture
+Color Ramp ▸ Factor
+Utilities ▸ Math ▸ Mix
+Color ▸ Mix Color ▸ Mix
+Shader ▸ Principled BSDF
+Shader ▸ Principled Hair BSDF
+Texture ▸ Gradient Texture
+Color ▸ Mix Color
+Shader ▸ Mix Shader
+Color ▸ Color Ramp
+Input ▸ Point Info
+Input ▸ Object Info
+   Material
+   Material.003
+ 0 Material.004
+  Bombka
+  Empty.001
+Generate ▸ Mirror
+Texture ▸ Image Texture
+Input ▸ Object Info ▸ Material Index
+   HANDLE
+ 0 TIP
+   Material.001
+ 0 Material.003
+   TIP
+ 0 Gold
+ 0 Light
+Shader ▸ Emission
+Shader ▸ Add Shader
+Output ▸ Material Output
+Shader ▸ Transparent BSDF
+   Light
+   Material.002
+Color ▸ Mix Color ▸ Add
+Filter ▸ Glare
